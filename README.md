@@ -1,4 +1,7 @@
-**tenthirtyam/tenthirtyam**
+### Ryan Johnson [website]
+
+[![Website](https://img.shields.io/website?label=tenthirtya.orgm&style=for-the-badge&url=https%3A%2F%2Ftenthirtyam.org)](https://tenthirtyam.org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tenthirtyam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftenthirtyam&screen_name=codeSTACKr)
 
 Here are some ideas to get you started:
 
