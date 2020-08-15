@@ -9,3 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+[website]: https://tenthirtyam.org
+[twitter]: https://twitter.com/tenthirtyam
+[youtube]: https://youtube.com/tenthirtyam
+[instagram]: https://instagram.com/tenthirtyam
+[linkedin]: https://linkedin.com/in/tenthirtyam
