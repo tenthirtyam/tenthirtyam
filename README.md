@@ -25,6 +25,9 @@ Creator and Maintainer | [github.com/vmware-samples](https://github.com/vmware-s
 - Packer Plugin for VMware vSphere<br/>
 External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vsphere)<br/>
 
+- Packer Plugin for VMware<br/>
+External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vmware)<br/>
+
 - PowerShell Module for VMware Validated Solutions<br/>
 Co-maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/power-validated-solutions-for-cloud-foundation)<br/>
 
