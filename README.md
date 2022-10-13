@@ -1,9 +1,11 @@
-# Ryan Johnson
+<img src="./svg/unplugged_dark.svg#gh-dark-mode-only" width="400">
+<img src="./svg/unplugged_light.svg#gh-light-mode-only" width="400">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tenthirtyam?color=1DA1F2&logo=twitter&style=for-the-badge&logoColor=white)][twitter]
+**Status:** Disconnecting October 14, 2022 to November 14, 2022.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/Connect-with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-Read-blue?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]
 
 ## About Me
