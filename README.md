@@ -5,8 +5,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Read-blue?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Read-blue?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
+[![Mastodon](https://img.shields.io/badge/Mastadon-Follow-blue?style=for-the-badge&logo=mastodon&logoColor=white)][mastodon]
+
+
 
 ## About Me
 
@@ -71,7 +74,7 @@ More on available [Credly][credly].
 [me]: https://tenthirtyam.org
 [linkedin]: https://linkedin.com/in/tenthirtyam
 [github]: https://github.com/tenthirtyam
-[twitter]: https://twitter.com/tenthirtyam
+[mastodon]: https://mastodon.social/@tenthirtyam
 [credly]: https://www.credly.com/users/tenthirtyam/badges
 [resume]: https://tenthirtyam.org/docs/johnson-ryan-resume-cv.pdf
 [amazon]: https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
