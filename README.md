@@ -1,15 +1,9 @@
-<img src="./svg/unplugged_dark.svg#gh-dark-mode-only" width="400">
-<img src="./svg/unplugged_light.svg#gh-light-mode-only" width="400">
-
-**Status:** Disconnecting October 14, 2022 to November 14, 2022.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-Read-blue?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
-[![Mastodon](https://img.shields.io/badge/Mastadon-Follow-blue?style=for-the-badge&logo=mastodon&logoColor=white)][mastodon]
-
-
+<!-- markdownlint-disable first-line-h1 no-inline-html -->
+[![@tenthirtyam](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]&nbsp;&nbsp;
+[![@tenthirtyam@mastodon.social](https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tenthirtyam)&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
+[![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
 
 ## About Me
 
@@ -38,6 +32,9 @@ Co-maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/po
 
 - PowerShell Module for VMware Cloud Foundation<br/>
 Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation)<br/>
+
+- PowerShell Module for VMware Cloud Foundation Reporting<br/>
+Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-reporting)<br/>
 
 - Photon OS Packer Templates<br/>
 Maintainer | [github.com/vmware/photon-packer-templates](https://github.com/vmware)<br/>
@@ -71,11 +68,9 @@ Contributing Author, Chapters 11, 12, and 14<br/>
 
 More on available [Credly][credly].
 
-[me]: https://tenthirtyam.org
+[blog]: https://tenthirtyam.org
 [linkedin]: https://linkedin.com/in/tenthirtyam
 [github]: https://github.com/tenthirtyam
-[mastodon]: https://mastodon.social/@tenthirtyam
 [credly]: https://www.credly.com/users/tenthirtyam/badges
 [resume]: https://tenthirtyam.org/docs/johnson-ryan-resume-cv.pdf
 [amazon]: https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
-
