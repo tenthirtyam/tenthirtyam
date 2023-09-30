@@ -72,5 +72,5 @@ More on available [Credly][credly].
 [linkedin]: https://linkedin.com/in/tenthirtyam
 [github]: https://github.com/tenthirtyam
 [credly]: https://www.credly.com/users/tenthirtyam/badges
-[resume]: https://tenthirtyam.org/docs/johnson-ryan-resume-cv.pdf
+[resume]: https://tenthirtyam.org/resume/
 [amazon]: https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
