@@ -1,76 +1,139 @@
 <!-- markdownlint-disable first-line-h1 no-inline-html -->
 [![@tenthirtyam](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]&nbsp;&nbsp;
-[![@tenthirtyam@mastodon.social](https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tenthirtyam)&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
-[![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)][sponsor]&nbsp;&nbsp;
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)][buy-me-a-coffee]&nbsp;&nbsp;
 
-## About Me
+Ryan is an accomplished solutions architect with a proven track record of designing and deploying
+cutting-edge infrastructure and automation platforms. He excels at transforming intricate technical
+challenges into robust, scalable solutions that redefine enterprise capabilities. Passionate about
+democratizing advanced cloud environments and championing open source technologies, Ryan empowers
+organizations to seamlessly adopt private and multi-cloud architectures, accelerating innovation and
+fostering significant community advancement.
 
-Ryan is a Senior Staff Solution Architect in Product Engineering at VMware. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
+## <img src="icons/fire.svg#gh-light-mode-only" width="20" height="20"><img src="icons/fire.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Tech Stack
 
-His primary focus is on private and public cloud platforms, cloud automation, and identity and access management. As an accomplished solutions architect his focus is enabling customers and the community to accelerate and simplify their private cloud and multi-cloud infrastructure and automation services.
+| Technology                 | Tools & Platforms |
+|----------------------------|-------------------|
+| Languages                  | Go<br/>PowerShell<br/>Python<br/>Bash |
+| Infrastructure as Code     | Terraform<br/>Packer<br/>Vagrant<br/>Ansible |
+| Virtualization             | VMware Cloud Foundation<br/>VMware vSphere<br/>VMware vSAN<br/>VMware NSX<br/>VMware Fusion<br/>VMware Workstation |
+| Containers & Orchestration | Docker<br/>Kubernetes<br/>Rancher |
+| Container Registries       | Artifactory<br/>GitHub Container Registry<br/>GitLab Container Registry<br/>Docker Hub<br/>Harbor |
+| Cloud Providers            | Amazon Web Services<br/>Microsoft Azure |
+| Version Control & CI/CD    | GitHub<br/>GitHub Enterprise<br/>GitHub Actions<br/>GitLab |
+| Development Tools          | JetBrains IDEs<br/>Visual Studio Code |
+| Design & Documentation     | Figma<br/>OmniGraffle<br/>Markdown |
+| Project Management         | JIRA<br/>Confluence<br/>Agile/Scrum |
+| Productivity Suites        | Microsoft 365<br/>Google Workspace |
+| Operating Systems          | Linux<br/>macOS<br/>Windows<br/>iOS<br/>Android |
 
-Ryan is a co-author of the Sybex/Wiley [Mastering vSphere 6.7][amazon] in which he collaborated with his fellow Solution Architects on the [VMware Validated Designs](http://vmware.com/go/vvd-docs) team.
+## <img src="icons/mortar-board-light.svg#gh-light-mode-only" width="20" height="20"><img src="icons/mortar-board-dark.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Certification & Accreditation
 
-## Open Source Projects
+<a href="https://www.credly.com/badges/7df8dc19-bd98-4f2b-8e42-53ed6ff36b3f" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Foundations
 
-- Terraform Provider for VMware vSphere<br/>
-Maintainer in collaboaration with HashiCorp | [github.com/hashicorp](https://github.com/hashicorp/terraform-provider-vsphere)<br/>
+<a href="https://www.credly.com/badges/30acb99d-c4e3-4414-a312-3d2c7a616218" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Actions
 
-- Packer Examples for VMware vSphere<br/>
-Creator and Maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/packer-examples-for-vsphere)<br/>
+<a href="https://www.credly.com/badges/dc4542d6-135e-40da-a550-a880fcfba191" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub CoPilot
 
-- Packer Plugin for VMware vSphere<br/>
-External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vsphere)<br/>
+<a href="https://www.credly.com/badges/f2fa643d-7e46-4e24-bc24-f9b596c1a9cf" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Advanced Security
 
-- Packer Plugin for VMware<br/>
-External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vmware)<br/>
+<a href="https://www.credly.com/badges/3abb6500-9683-4d53-830d-a09c59dda1d3" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Administration
 
-- PowerShell Module for VMware Validated Solutions<br/>
-Co-maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/power-validated-solutions-for-cloud-foundation)<br/>
+<a href="https://www.credly.com/badges/6261fef9-8c9d-4abd-9eec-3d4625ea063b" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitLab Certified, Git Associate
 
-- PowerShell Module for VMware Cloud Foundation<br/>
-Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation)<br/>
+<a href="https://www.credly.com/badges/8fd061fd-cb2c-4f51-bfaa-ac03087aa653" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitLab Certified, Project Management Associate
 
-- PowerShell Module for VMware Cloud Foundation Reporting<br/>
-Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-reporting)<br/>
+<a href="https://www.credly.com/badges/d44971c7-e1aa-4659-8bc9-bf776d55a3a6" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitLab Certified, CI/CD Associate
 
-- Photon OS Packer Templates<br/>
-Maintainer | [github.com/vmware/photon-packer-templates](https://github.com/vmware)<br/>
+<a href="https://www.credly.com/badges/e23297c5-394a-41ad-8b2e-4bca06f23d23" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;HashiCorp Core Contributor 2025 (Terraform and Packer)
 
-## Publications
+<a href="https://www.credly.com/badges/cf5b561d-692d-4cc4-ad53-80a67e45385a" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;HashiCorp Certified, Terraform Associate
 
-[Mastering vSphere 6.7](https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948), Wiley Sybex, 2018<br/>
-Contributing Author, Chapters 11, 12, and 14<br/>
-[Amazon Author Profile](http://amazon.com/Ryan-Johnson/e/B07D7G52CG/)
+<a href="https://www.credly.com/badges/62b31a5a-b37e-4890-960a-8bc91d813891" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;Microsoft Certified, Azure Fundamentals
 
-## Certifications &amp; Accreditations
+<a href="https://www.credly.com/badges/b8dfa8e3-5b6a-4adb-9bf8-f91100889817" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;AWS Certified Solutions Architect Associate
 
-- Microsoft Certified, Azure Fundamentals [[Verify](https://www.credly.com/badges/62b31a5a-b37e-4890-960a-8bc91d813891)]
-- Amazon Web Services Certified Solutions Architect Associate [[Verify](https://www.credly.com/badges/b8dfa8e3-5b6a-4adb-9bf8-f91100889817)]
-- Amazone Web Service Certified Cloud Practitioner [[Verify](https://www.credly.com/badges/5f6a01e2-b53c-4361-aa50-b945a7988af8)]
-- HashiCorp Core Contributor 2022 [[Verify](https://www.credly.com/badges/882f5f6d-7b30-47e4-b119-6d6b11b05eaf)] for Terraform and Packer
-- HashiCorp Certified, Terraform Associate [[Verify](https://www.credly.com/badges/067c40da-a823-47e0-9b90-ae78c7ceca21)]
-- VMware vExpert 2013-2022 [[Verify](https://vexpert.vmware.com/directory/1250)]
-- VMware Certified Implementation Expert, Data Center Virtualization 2021 [[Verify](https://www.credly.com/badges/f3d8c3ba-aee6-459b-b5ef-b48f30210a73)]
-- VMware Certified Implementation Expert, Network Virtualization 2020 [[Verify](https://www.credly.com/badges/e07a82fb-3ec3-4387-8c6d-67e5338d28da)]
-- VMware Certified Advanced Professional, Data Center Virtualization Design 2020 [[Verify](https://www.credly.com/badges/9a5f33df-13ba-46f0-9255-ad169385849c)]
-- VMware Certified Advanced Professional, Network Virtualization Design 2020 [[Verify](https://www.credly.com/badges/869f9365-2e79-4377-b0e1-8ad9df7725ee)]
-- VMware Certified Advanced Professional, Cloud Management and Automation Design 7 [[Verify](https://www.credly.com/badges/13e53a78-7c0d-42eb-ac26-be9ad9c24dc6)]
-- VMware Certified Professional, Data Center Virtualization 2021 [[Verify](https://www.credly.com/badges/7cb400df-0c05-4912-846d-1e864639ea50)]
-- VMware Certified Professional, Network Virtualization 2021 [[Verify](https://www.credly.com/badges/c2c164d4-8a2a-4d36-9736-109ae9c68068)]
-- VMware Certified Professional, Cloud Management and Automation 2022 [[Verify](https://www.credly.com/badges/02f122b9-82dd-4f33-9ec1-0d187bc7fdaa)]
-- VMware Certified Specialist, Cloud Foundation 2020 [[Verify](https://www.credly.com/badges/4709a76c-0aa9-417b-bf4d-1b39db0d690d)]
-- VMware NSX-T Data Center Security 2021 [[Verify](https://www.credly.com/badges/0f84bab9-0e11-43e9-910f-50863d2fd90a)]
-- Dell Technologies Cloud Architect Cloud Services Expert [[Verify](https://www.credly.com/badges/edf8d717-a354-45d3-9ce7-9afe1cc25114)]
-- American Red Cross Adult and Pediatric First Aid/CPR/AED
+<a href="https://www.credly.com/badges/5f6a01e2-b53c-4361-aa50-b945a7988af8" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;AWS Certified Cloud Practitioner
 
-More on available [Credly][credly].
+<a href="https://vexpert.vmware.com/directory/1250" title="Verify on VMware vExpert"><img src="icons/verify.svg" width="13" height="13" title="Verify"></a>&nbsp;&nbsp;VMware vExpert 2013-2025
 
-[blog]: https://tenthirtyam.org
-[linkedin]: https://linkedin.com/in/tenthirtyam
+<a href="https://www.credly.com/badges/0219604d-3a51-4468-95d4-017af4541b67" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Architect (v9)
+
+<a href="https://www.credly.com/badges/d0fec24d-da71-49e9-ad07-3b3d084abc27" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Administrator (v9)
+
+<a href="https://www.credly.com/badges/2643586b-802d-4694-a3ba-15e8a15f9e05" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware vSphere Foundation Administrator (v9)
+
+<a href="https://www.credly.com/badges/6a5429d0-af63-428f-ac59-4d62a54f49df" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Architect 2024 (v5)
+
+<a href="https://www.credly.com/badges/bbf7c17a-0c5e-448f-ace2-8d6cb0024aba" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Administrator 2024 (v5)
+
+<a href="https://www.credly.com/badges/864bd053-12f6-4f99-bdfa-96907a7b9ed2" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware vSphere Foundation Administrator 2024 (v5)
+
+<a href="https://www.credly.com/badges/f3d8c3ba-aee6-459b-b5ef-b48f30210a73" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Implementation Expert, Data Center Virtualization
+
+<a href="https://www.credly.com/badges/e07a82fb-3ec3-4387-8c6d-67e5338d28da" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Implementation Expert, Network Virtualization
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;More available on <a href="https://www.credly.com/users/tenthirtyam/badges" title="More available on Credly">Credly</a>.&nbsp;&nbsp;<img src="icons/mortar-board-light.svg#gh-light-mode-only" width="18" height="18"><img src="icons/mortar-board-dark.svg#gh-dark-mode-only" width="18" height="18">
+
+## <img src="icons/book-light.svg#gh-light-mode-only" width="20" height="20"><img src="icons/book-dark.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Publications
+
+<a href="https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948"><img src="icons/rocket.svg" width="13" height="13"></a>&nbsp;&nbsp;[_Mastering vSphere 6.7_](https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948), Wiley Sybex, 2018<br/>
+<a href="http://amazon.com/Ryan-Johnson/e/B07D7G52CG/" title="Amazon Author Profile"><img src="icons/profile.svg" width="13" height="13"></a>&nbsp;&nbsp;Chapters 11, 12, and 14<br/>
+
+## <img src="icons/file-badge-light.svg#gh-light-mode-only" width="20" height="20"><img src="icons/file-badge-dark.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Patents
+
+<a href="https://ppubs.uspto.gov/dirsearch-public/print/downloadBasicPdf/20230021019?requestToken=eyJzdWIiOiJhMzYzMDlmYS1mMzRmLTRkNWItYmVlNS1kNmE4OGE4MzQ5MGUiLCJ2ZXIiOiI3ZGU4YTE0NC03OTU1LTQ0MjAtYmZmNS00YzQ5YjNhZDBjYmEiLCJleHAiOjB9"><img src="icons/rocket.svg" width="13" height="13"></a>&nbsp;&nbsp;[Managing L4 Ports](https://ppubs.uspto.gov/dirsearch-public/print/downloadBasicPdf/20230021019?requestToken=eyJzdWIiOiJhMzYzMDlmYS1mMzRmLTRkNWItYmVlNS1kNmE4OGE4MzQ5MGUiLCJ2ZXIiOiI3ZGU4YTE0NC03OTU1LTQ0MjAtYmZmNS00YzQ5YjNhZDBjYmEiLCJleHAiOjB9)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US 20230021019 A1, Issued 2023-01-19<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-inventor with [Carlos Phoenix](https://www.linkedin.com/in/carlos-phoenix)<br/>
+
+## <img src="icons/git-pull-request-light.svg#gh-light-mode-only" width="20" height="20" alt="Pull Request"><img src="icons/git-pull-request-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Pull Request">&nbsp;&nbsp;Open Source Projects
+
+### GitHub Actions
+
+<a href="https://github.com/tenthirtyam/setup-task"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp; Setup Task (`go-task/task`), Creator and Maintainer
+
+### Packer Plugins
+
+<a href="https://github.com/hashicorp/packer-plugin-vmware"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware Desktop Hypervisors, Maintainer
+
+<a href="https://github.com/hashicorp/packer-plugin-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware vSphere, Maintainer
+
+<a href="https://github.com/vmware/packer-examples-for-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Examples for VMware vSphere, Creator and Maintainer
+
+### Terraform Providers
+
+<a href="https://github.com/vmware/terraform-provider-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware vSphere, Maintainer
+
+<a href="https://github.com/vmware/terraform-provider-vcf"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Cloud Foundation, Maintainer
+
+<a href="https://github.com/vmware/terraform-provider-vmc"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Cloud on AWS, Maintainer
+
+<a href="https://github.com/vmware/terraform-provider-hcx"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware HCX, Maintainer
+
+<a href="https://github.com/vmware/terraform-provider-vra"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Aria Automation, Maintainer
+
+<a href="https://github.com/vmware/terraform-provider-nsxt"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware NSX, Maintainer
+
+### Go Libraries
+
+<a href="https://github.com/tenthirtyam/go-vnc"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;`go-vnc`: Go library for the VNC client protocol, compliant with [RFC 6143](http://tools.ietf.org/html/rfc6143)., Maintainer
+
+<a href="https://github.com/vmware/govmomi"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;`govmomi`: Go library for the VMware vSphere API, Maintainer
+
+### PowerShell Modules
+
+<a href="https://github.com/vmware-samples/power-validated-solutions-for-cloud-foundation"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Validated Solutions, Maintainer Emeritus
+
+<a href="https://github.com/vmware/powershell-module-for-vmware-cloud-foundation"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Cloud Foundation, Maintainer Emeritus
+
+<a href="https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-reporting"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Cloud Foundation Reporting, Maintainer Emeritus
+
+<a href="https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-password-management"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Cloud Foundation Password Management, Maintainer Emeritus
+
+[buy-me-a-coffee]: https://buymeacoffee.com/tenthirtyam
 [github]: https://github.com/tenthirtyam
-[credly]: https://www.credly.com/users/tenthirtyam/badges
-[resume]: https://tenthirtyam.org/docs/johnson-ryan-resume-cv.pdf
-[amazon]: https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948
+[linkedin]: https://linkedin.com/in/tenthirtyam
+[resume]: https://tenthirtyam.org/resume/
+[sponsor]: https://github.com/sponsors/tenthirtyam
