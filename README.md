@@ -7,7 +7,7 @@
 
 ## About Me
 
-Ryan is a Senior Staff Solution Architect in Product Engineering at VMware. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
+Ryan is a Distinguished Engineer in Product Engineering at VMware by Broadcom. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
 
 His primary focus is on private and public cloud platforms, cloud automation, and identity and access management. As an accomplished solutions architect his focus is enabling customers and the community to accelerate and simplify their private cloud and multi-cloud infrastructure and automation services.
 
