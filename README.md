@@ -5,7 +5,7 @@
 [![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
 [![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
 
-Commits != those of my employer or mother.
+Commits `!=` those of my employer or mother.
 
 ## About Me
 
