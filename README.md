@@ -5,6 +5,8 @@
 [![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
 [![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
 
+Commits != those of my employer or mother.
+
 ## About Me
 
 Ryan is a Distinguished Engineer in Product Engineering at VMware by Broadcom. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
