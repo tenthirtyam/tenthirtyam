@@ -40,6 +40,9 @@ Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-
 - PowerShell Module for VMware Cloud Foundation Reporting<br/>
 Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-reporting)<br/>
 
+- PowerShell Module for VMware Cloud Foundation Password Management<br/>
+Co-maintainer | [github.com/vmware](https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-password-management)<br/>
+
 - Photon OS Packer Templates<br/>
 Maintainer | [github.com/vmware/photon-packer-templates](https://github.com/vmware)<br/>
 
@@ -51,9 +54,10 @@ Contributing Author, Chapters 11, 12, and 14<br/>
 
 ## Certifications &amp; Accreditations
 
+- Github Certified, GitHub Foundations [[Verify](https://www.credly.com/badges/7df8dc19-bd98-4f2b-8e42-53ed6ff36b3f)]
 - Microsoft Certified, Azure Fundamentals [[Verify](https://www.credly.com/badges/62b31a5a-b37e-4890-960a-8bc91d813891)]
 - Amazon Web Services Certified Solutions Architect Associate [[Verify](https://www.credly.com/badges/b8dfa8e3-5b6a-4adb-9bf8-f91100889817)]
-- Amazone Web Service Certified Cloud Practitioner [[Verify](https://www.credly.com/badges/5f6a01e2-b53c-4361-aa50-b945a7988af8)]
+- Amazon Web Service Certified Cloud Practitioner [[Verify](https://www.credly.com/badges/5f6a01e2-b53c-4361-aa50-b945a7988af8)]
 - HashiCorp Core Contributor 2022 [[Verify](https://www.credly.com/badges/882f5f6d-7b30-47e4-b119-6d6b11b05eaf)] for Terraform and Packer
 - HashiCorp Certified, Terraform Associate [[Verify](https://www.credly.com/badges/067c40da-a823-47e0-9b90-ae78c7ceca21)]
 - VMware vExpert 2013-2022 [[Verify](https://vexpert.vmware.com/directory/1250)]
