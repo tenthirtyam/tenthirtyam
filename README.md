@@ -5,31 +5,34 @@
 [![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
 [![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
 
-```go
-Commits != those of my employer or mother.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tenthirtyam&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j&card_width=552&card_height=150&stroke=7EEB2B&fire=EB5454)](https://git.io/streak-stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tenthirtyam&theme=github&hide_border=true&date_format=%5BY.%5Dn.j&card_width=552&card_height=150&stroke=7EEB2B&fire=EB5454)](https://git.io/streak-stats">
+  <img alt="Description of image">
+</picture>
 
 ## About Me
 
-Ryan is a Distinguished Engineer in Product Engineering at VMware by Broadcom. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
+Ryan is a Distinguished Engineer in Product Engineering at Broadcom in the VMware Cloud Foundation Division. He and his team are responsible for architecture, design, and engineering of the VMware Validated Solutions and VMware Cloud Foundation.
 
 His primary focus is on private and public cloud platforms, cloud automation, and identity and access management. As an accomplished solutions architect his focus is enabling customers and the community to accelerate and simplify their private cloud and multi-cloud infrastructure and automation services.
-
-Ryan is a co-author of the Sybex/Wiley [Mastering vSphere 6.7][amazon] in which he collaborated with his fellow Solution Architects on the [VMware Validated Designs](http://vmware.com/go/vvd-docs) team.
 
 ## Open Source Projects
 
 - Terraform Provider for VMware vSphere<br/>
 Maintainer in collaboaration with HashiCorp | [github.com/hashicorp](https://github.com/hashicorp/terraform-provider-vsphere)<br/>
 
+- Terraform Provider for VMware Cloud Foundation<br/>
+Co-maintainer  | [github.com/hashicorp](https://github.com/hashicorp/terraform-provider-vcf)<br/>
+
+- Packer Plugin for VMware vSphere<br/>
+Maintainer in collaboaratio Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vsphere)<br/>
+
 - Packer Examples for VMware vSphere<br/>
 Creator and Maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/packer-examples-for-vsphere)<br/>
 
-- Packer Plugin for VMware vSphere<br/>
-External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vsphere)<br/>
-
 - Packer Plugin for VMware<br/>
-External Collaborator with Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vmware)<br/>
+Maintainer in collaboaratioh Hashicorp | [github.com/hashicorp](https://github.com/hashicorp/packer-plugin-vmware)<br/>
 
 - PowerShell Module for VMware Validated Solutions<br/>
 Co-maintainer | [github.com/vmware-samples](https://github.com/vmware-samples/power-validated-solutions-for-cloud-foundation)<br/>
@@ -51,6 +54,12 @@ Maintainer | [github.com/vmware/photon-packer-templates](https://github.com/vmwa
 [Mastering vSphere 6.7](https://www.amazon.com/Mastering-VMware-vSphere-Nick-Marshall/dp/1119512948), Wiley Sybex, 2018<br/>
 Contributing Author, Chapters 11, 12, and 14<br/>
 [Amazon Author Profile](http://amazon.com/Ryan-Johnson/e/B07D7G52CG/)
+
+## Patents
+
+[Managing L4 Ports](https://ppubs.uspto.gov/dirsearch-public/print/downloadBasicPdf/20230021019?requestToken=eyJzdWIiOiJhMzYzMDlmYS1mMzRmLTRkNWItYmVlNS1kNmE4OGE4MzQ5MGUiLCJ2ZXIiOiI3ZGU4YTE0NC03OTU1LTQ0MjAtYmZmNS00YzQ5YjNhZDBjYmEiLCJleHAiOjB9), US 20230021019 A1, Issued 2023-01-19<br/>
+Co-inventor with Carlos Phoenix<br/><br/>
+Transforming ports (L4) from passive conduits of data into security aware code ("software defined") that have the ability to securely configure themselves so that applications and network traffic are actively secured.
 
 ## Certifications &amp; Accreditations
 
