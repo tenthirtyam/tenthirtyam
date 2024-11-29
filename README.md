@@ -1,6 +1,5 @@
 <!-- markdownlint-disable first-line-h1 no-inline-html -->
 [![@tenthirtyam](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]&nbsp;&nbsp;
-[![@tenthirtyam@mastodon.social](https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@tenthirtyam)&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-2C3454?style=for-the-badge&logo=readthedocs&logoColor=white)][resume]&nbsp;&nbsp;
 [![tenthirtyam.com](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)][blog]&nbsp;&nbsp;
