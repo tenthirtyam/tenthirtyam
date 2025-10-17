@@ -65,6 +65,8 @@ fostering significant community advancement.
 
 <a href="https://www.credly.com/badges/2643586b-802d-4694-a3ba-15e8a15f9e05" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware vSphere Foundation Administrator (v9)
 
+<a href="https://www.credly.com/badges/430cdb7d-4026-4c1c-9ea2-43836f6a801b" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware vSphere Foundation Support (v9)
+
 <a href="https://www.credly.com/badges/6a5429d0-af63-428f-ac59-4d62a54f49df" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Architect 2024 (v5)
 
 <a href="https://www.credly.com/badges/bbf7c17a-0c5e-448f-ace2-8d6cb0024aba" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;VMware Certified Professional, VMware Cloud Foundation Administrator 2024 (v5)
