@@ -92,6 +92,10 @@ fostering significant community advancement.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US 20230021019 A1, Issued 2023-01-19<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-inventor with [Carlos Phoenix](https://www.linkedin.com/in/carlos-phoenix)<br/>
 
+## <img src="icons/fire.svg#gh-light-mode-only" width="20" height="20" alt="Pull Request"><img src="icons/fire.svg#gh-dark-mode-only" width="20" height="20" alt="Pull Request">&nbsp;&nbsp;Web Projects
+
+<a href="https://nolanjjohnson.com"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp; Nolan J. Johnson (<a href="https://nolanjjohnson.com">`nolanjjohnson.com`</a>). <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developed with ❤️ for my son. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An actor portfolio built with React, TypeScript, Tailwind CSS, and Vite. <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uses Vercel serverless functions for the API and deployed on Vercel with GitHub CI/CD.
+
 ## <img src="icons/git-pull-request-light.svg#gh-light-mode-only" width="20" height="20" alt="Pull Request"><img src="icons/git-pull-request-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Pull Request">&nbsp;&nbsp;Open Source Projects
 
 ### GitHub Actions
@@ -135,6 +139,13 @@ fostering significant community advancement.
 <a href="https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-reporting"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Cloud Foundation Reporting, Maintainer Emeritus
 
 <a href="https://github.com/vmware/powershell-module-for-vmware-cloud-foundation-password-management"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;PowerShell Module for VMware Cloud Foundation Password Management, Maintainer Emeritus
+
+## <img src="icons/git-pull-request-light.svg#gh-light-mode-only" width="20" height="20" alt="Pull Request"><img src="icons/git-pull-request-dark.svg#gh-dark-mode-only" width="20" height="20" alt="Pull Request">&nbsp;&nbsp;Closed Source Projects
+
+### Ansible
+
+<img src="icons/fire.svg#gh-light-mode-only" width="13" height="14"><img src="icons/fire.svg#gh-dark-mode-only" width="13" height="13"> Ansible Collection for VMware Cloud Foundation 9, Developer and Maintainer<br/>
+&nbsp;&nbsp;&nbsp; Developed for a financial customer in my Customer Success role at Broadcom.
 
 [buy-me-a-coffee]: https://buymeacoffee.com/tenthirtyam
 [github]: https://github.com/tenthirtyam
