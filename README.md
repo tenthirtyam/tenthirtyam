@@ -31,7 +31,7 @@ fostering significant community advancement.
 
 ## <img src="icons/mortar-board-light.svg#gh-light-mode-only" width="20" height="20"><img src="icons/mortar-board-dark.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Certification & Accreditation
 
-<a href="https://www.credly.com/badges/e07a82fb-3ec3-4387-8c6d-67e5338d28da" title="Verify on American Red Ctoss"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;American Red Cross, Adult and Pediatric First Aid/CPR/AED
+<a href="https://www.redcross.org/take-a-class/qrcode?certnumber=024MKKV" title="Verify on American Red Ctoss"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;American Red Cross, Adult and Pediatric First Aid/CPR/AED
 
 <a href="https://www.credly.com/badges/7df8dc19-bd98-4f2b-8e42-53ed6ff36b3f" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Foundations
 
@@ -106,9 +106,9 @@ fostering significant community advancement.
 
 ### Packer Plugins
 
-<a href="https://github.com/hashicorp/packer-plugin-vmware"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware Desktop Hypervisors, Maintainer
+<a href="https://github.com/vmware/packer-plugin-vmware"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware Desktop Hypervisors, Maintainer
 
-<a href="https://github.com/hashicorp/packer-plugin-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware vSphere, Maintainer
+<a href="https://github.com/vmware/packer-plugin-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Plugin for VMware vSphere, Maintainer
 
 <a href="https://github.com/vmware/packer-examples-for-vsphere"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Packer Examples for VMware vSphere, Creator and Maintainer
 
@@ -118,13 +118,13 @@ fostering significant community advancement.
 
 <a href="https://github.com/vmware/terraform-provider-vcf"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Cloud Foundation, Maintainer
 
-<a href="https://github.com/vmware/terraform-provider-vmc"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Cloud on AWS, Maintainer
+<a href="https://github.com/vmware/terraform-provider-vmc"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Cloud on AWS, Maintainer Emeritus
 
-<a href="https://github.com/vmware/terraform-provider-hcx"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware HCX, Maintainer
+<a href="https://github.com/vmware/terraform-provider-hcx"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware HCX, Maintainer Emeritus
 
-<a href="https://github.com/vmware/terraform-provider-vra"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Aria Automation, Maintainer
+<a href="https://github.com/vmware/terraform-provider-vra"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware Aria Automation, Maintainer Emeritus
 
-<a href="https://github.com/vmware/terraform-provider-nsxt"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware NSX, Maintainer
+<a href="https://github.com/vmware/terraform-provider-nsxt"><img src="icons/external-link.svg" width="13" height="13" alt="External Link"></a>&nbsp;&nbsp;Terraform Provider for VMware NSX, Maintainer Emeritus
 
 ### Go Libraries
 
