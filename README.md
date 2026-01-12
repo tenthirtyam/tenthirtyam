@@ -31,7 +31,7 @@ fostering significant community advancement.
 
 ## <img src="icons/mortar-board-light.svg#gh-light-mode-only" width="20" height="20"><img src="icons/mortar-board-dark.svg#gh-dark-mode-only" width="20" height="20">&nbsp;&nbsp;Certification & Accreditation
 
-<a href="https://www.credly.com/badges/e07a82fb-3ec3-4387-8c6d-67e5338d28da" title="Verify on American Red Ctoss"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp; Adult and Pediatric First Aid/CPR/AED
+<a href="https://www.credly.com/badges/e07a82fb-3ec3-4387-8c6d-67e5338d28da" title="Verify on American Red Ctoss"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;Adult and Pediatric First Aid/CPR/AED
 
 <a href="https://www.credly.com/badges/7df8dc19-bd98-4f2b-8e42-53ed6ff36b3f" title="Verify on Credly"><img src="icons/verify.svg" width="13" height="13"></a>&nbsp;&nbsp;GitHub Certified, GitHub Foundations
 
